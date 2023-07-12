@@ -1,0 +1,5 @@
+one customer can have zero or many tickets. and one ticket can only be associated with one customer.
+
+a customer ca purchase zero or many concessions. but one concession purchase can only be associated with one customer.
+
+a ticket can only be associated with one and only one movie. but one movie can have zero or many tickets. 
